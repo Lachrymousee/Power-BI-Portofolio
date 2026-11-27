@@ -1,0 +1,53 @@
+vehicle_id,vehicle_type,status,manufacture_year
+VH-001,MPV - Avanza,Active,2024
+VH-002,SUV - Innova,active ,2020
+VH-003,Box Truck - Engkel,Active,2024
+VH-004,MPV - Avanza,Inactive,2022
+VH-005,MPV - Avanza,Active,2019
+VH-006,Box Truck - Engkel,active ,2023
+VH-007,MPV - Avanza,Inactive,2020
+VH-008,Blind Van - GranMax,active ,2022
+VH-009,SUV - Innova,Active,2025
+VH-010,Box Truck - Engkel,Maintenance,2021
+VH-011,SUV - Innova,active ,2020
+VH-012,SUV - Innova,Active,2019
+VH-013,Blind Van - GranMax,Active,2021
+VH-014,SUV - Innova,Inactive,2021
+VH-015,MPV - Avanza,Maintenance,2023
+VH-016,MPV - Avanza,Maintenance,2019
+VH-017,SUV - Innova,Inactive,2025
+VH-018,SUV - Innova,Inactive,2020
+VH-019,MPV - Avanza,Active,2024
+VH-020,Box Truck - Engkel,ACTIVE,2019
+VH-021,Box Truck - Engkel,Active,2022
+VH-022,SUV - Innova,Maintenance,2024
+VH-023,SUV - Innova,active ,2021
+VH-024,SUV - Innova,active ,2024
+VH-025,SUV - Innova,Active,2023
+VH-026,Box Truck - Engkel,Inactive,2024
+VH-027,Box Truck - Engkel,active ,2022
+VH-028,Blind Van - GranMax,ACTIVE,2024
+VH-029,Box Truck - Engkel,ACTIVE,2025
+VH-030,MPV - Avanza,active ,2025
+VH-031,MPV - Avanza,ACTIVE,2022
+VH-032,SUV - Innova,Active,2020
+VH-033,SUV - Innova,active ,2024
+VH-034,Blind Van - GranMax,Maintenance,2024
+VH-035,Blind Van - GranMax,active ,2021
+VH-036,Box Truck - Engkel,active ,2024
+VH-037,SUV - Innova,Inactive,2022
+VH-038,Blind Van - GranMax,ACTIVE,2020
+VH-039,Box Truck - Engkel,Inactive,2022
+VH-040,MPV - Avanza,Active,2025
+VH-041,MPV - Avanza,active ,2024
+VH-042,Box Truck - Engkel,Maintenance,2023
+VH-043,MPV - Avanza,Maintenance,2022
+VH-044,Blind Van - GranMax,Inactive,2021
+VH-045,MPV - Avanza,Active,2024
+VH-046,SUV - Innova,ACTIVE,2019
+VH-047,SUV - Innova,Maintenance,2020
+VH-048,Blind Van - GranMax,Active,2024
+VH-049,SUV - Innova,Inactive,2025
+VH-050,Box Truck - Engkel,Inactive,2019
+VH-001,MPV - Avanza,Active,2024
+VH-002,SUV - Innova,active ,2020
